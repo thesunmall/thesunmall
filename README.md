@@ -1,4 +1,6 @@
-### Hi there 👋
+### E-commerce platform, You can create a store, and sell your products. 
+Buying, selling, and exchanging goods between buyers and sellers
+Use pi network to pay👋
 
 <!--
 **thesunmall/thesunmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
